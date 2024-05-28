@@ -1,0 +1,7 @@
+x=8
+y=2.5
+z=2
+
+print(type(x))
+print(type(y))
+print(type(z))
